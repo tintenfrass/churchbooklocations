@@ -1,4 +1,4 @@
-# churchbook locations
+# Karte Kichenbücher
 
 Karte aller Kirchenbücher aus Sachsen und Thüringen, also die Orte wo sich die Kirchengemeinden befanden.
 Geordnet nach Quelle, wo man diese Kirchenbücher/Abschriften heute finden kann.
